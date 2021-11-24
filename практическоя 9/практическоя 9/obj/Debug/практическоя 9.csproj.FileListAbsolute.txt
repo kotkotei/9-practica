@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\практическоя 9\практическоя 9\bin\Debug\практическоя 9.exe.config
+C:\Users\1\source\repos\практическоя 9\практическоя 9\bin\Debug\практическоя 9.exe
+C:\Users\1\source\repos\практическоя 9\практическоя 9\bin\Debug\практическоя 9.pdb
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя 9.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя_9.Form1.resources
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя_9.Form2.resources
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя_9.Properties.Resources.resources
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя 9.csproj.GenerateResource.cache
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя 9.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя 9.exe
+C:\Users\1\source\repos\практическоя 9\практическоя 9\obj\Debug\практическоя 9.pdb
